@@ -8,11 +8,11 @@
 		<version>2.2.1.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.azykin.math.lab</groupId>
-	<artifactId>demo</artifactId>
+	<groupId>com.azykin.math</groupId>
+	<artifactId>math-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
-	<description>Demo project for example</description>
+	<name>example</name>
+	<description>Demo project for math example parsing</description>
 
 	<properties>
 		<java.version>1.8</java.version>

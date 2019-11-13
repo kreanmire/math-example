@@ -1,4 +1,4 @@
-package com.azykin.math.lab.demo
+package com.azykin.math.example
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest

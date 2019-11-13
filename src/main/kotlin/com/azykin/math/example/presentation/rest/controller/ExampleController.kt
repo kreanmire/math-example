@@ -1,4 +1,4 @@
-package com.azykin.math.lab.demo.presentation.rest.controller
+package com.azykin.math.example.presentation.rest.controller
 
 import lombok.RequiredArgsConstructor
 import org.springframework.web.bind.annotation.GetMapping

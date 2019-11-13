@@ -1,4 +1,4 @@
-package com.azykin.math.lab.demo.infrastructure
+package com.azykin.math.example.infrastructure
 
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration
